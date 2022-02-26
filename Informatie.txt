@@ -1,0 +1,14 @@
+
+Hulp is welkom, maar voel je niet verplicht!
+
+https://docs.betonquest.org/2.0.0-DEV/Tutorials/Getting-Started/Setting-up-the-editor/
+
+De quests/gesprekken gaan los bij de map Conversation. Opzet en informatie is bij INNKEEPER.yml.
+Gebruik dit als "template". De volgende video helpt beetje te begrijpen wat wat is.
+
+https://www.youtube.com/watch?v=PlHmqzujWMI&t=687s&ab_channel=ChristyKnockleby
+Eerste 10 minuten geeft je al een goede inzicht.
+Die editor is niet meer aanwezig. Dus moet het helaas zo haha!
+
+
+
